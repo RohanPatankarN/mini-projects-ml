@@ -1,4 +1,5 @@
 # mini-projects-ml
+# KNN ALGORITHM
 Explore K-Nearest Neighbor Algorithm
 The K-nearest neighbors (KNN) algorithm is a type of supervised machine learning algorithms. KNN is extremely easy to implement in its most basic form, and yet performs quite complex classification tasks
 
